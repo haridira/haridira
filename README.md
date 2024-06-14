@@ -1,2 +1,2 @@
 ### Haritha Diraneyya
-A Front-End Software Engineer
+A Full-Stack Software Engineer
